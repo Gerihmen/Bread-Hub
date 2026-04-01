@@ -1,5 +1,5 @@
 # Bread-Hub
-Hub for Roblox game
+Hub for Roblox games
 
 
 # SOON
